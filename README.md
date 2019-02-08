@@ -13,6 +13,6 @@ axis2-1.6.2,
 eclipse-jee-kepler-R-win32
 
 Las pruebas unitarias se hicieron con SoapUI
-
-
+con la URL http://localhost:8080/WebServiceFibo/services/ClaseFibonacci?wsdl
+las evidencias se encuentran en el directorio .\PruebasUnitarias\
 
